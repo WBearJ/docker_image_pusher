@@ -2,6 +2,7 @@ nginx
 kasmweb/nginx:1.25.3
 gitlab/gitlab-ce
 gitlab/gitlab-runner
+ghcr.io/cirruslabs/flutter
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
