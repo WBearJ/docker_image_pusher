@@ -1,6 +1,7 @@
 nginx
 kasmweb/nginx:1.25.3
 gitlab/gitlab-ce
+gitlab/gitlab-runner
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
