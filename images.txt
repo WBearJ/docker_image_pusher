@@ -5,6 +5,7 @@ gitlab/gitlab-runner
 ghcr.io/cirruslabs/flutter:3.24.5
 dart
 ruby
+curlimages/curl
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
